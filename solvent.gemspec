@@ -19,6 +19,7 @@ Gem::Specification.new do |s|
     "Rakefile",
      "VERSION",
      "lib/solvent.rb",
+     "solvent.gemspec",
      "test/test_helper.rb",
      "test/unit/test_helper.rb",
      "test/unit/test_solvent.rb",
